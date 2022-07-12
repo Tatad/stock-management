@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\StockTest::test_exceeded_stock_on_hand":3},"times":{"Tests\\Unit\\ExampleTest::test_example":0.002,"Tests\\Unit\\StockTest::test_example":0,"Tests\\Unit\\StockTest::test_exceeded_stock_on_hand":0.006}}
